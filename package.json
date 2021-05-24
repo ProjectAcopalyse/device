@@ -1,0 +1,23 @@
+{
+  "name": "@apocalypse/device",
+  "version": "0.0.1",
+  "description": "Represents any kind of device.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectAcopalyse/device.git"
+  },
+  "author": "s3g007@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProjectAcopalyse/device/issues"
+  },
+  "homepage": "https://github.com/ProjectAcopalyse/device#readme",
+  "dependencies": {
+    "rxjs": "^7.1.0",
+    "typescript": "^4.2.4"
+  }
+}
