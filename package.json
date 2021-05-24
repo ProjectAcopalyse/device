@@ -1,5 +1,5 @@
 {
-  "name": "@apocalypse/device",
+  "name": "@acopalyse/device",
   "version": "0.0.1",
   "description": "Represents any kind of device.",
   "main": "dist/index.js",
